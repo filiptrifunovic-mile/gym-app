@@ -1,4 +1,4 @@
-Material UI, React Router, Fetch React Spinner
+Material UI, React Router, Fetch, React Spinner
 
 https://filip-gym.netlify.app/
 
